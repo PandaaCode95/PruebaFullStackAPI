@@ -12,4 +12,4 @@ Se proveen rutas como:
   /new -----> Novedades.
   /search --> Filtrado de pelíclas usando "?filter=" para captar la variable de filtro.
 
-  Algunas no se aplicaron finalmente en el Front por falta de tiempo.
+  Algunos Endpoints no se utilizaron finalmente en el Front por falta de tiempo.
