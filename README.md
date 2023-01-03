@@ -11,3 +11,5 @@ Se proveen rutas como:
   /rated ---> Mejor valoradas.
   /new -----> Novedades.
   /search --> Filtrado de pelíclas usando "?filter=" para captar la variable de filtro.
+
+  Algunas no se aplicaron finalmente en el Front por falta de tiempo.
